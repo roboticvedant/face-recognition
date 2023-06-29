@@ -21,6 +21,7 @@ The application uses the Local Binary Patterns Histogram (LBPH) face recognizer 
 2. Clone this repository:
     ```
     git clone https://github.com/your-github-username/face-recognition
+    
     ```
 
 3. Navigate to the project directory:
