@@ -25,13 +25,10 @@ The application uses the Local Binary Patterns Histogram (LBPH) face recognizer 
     ```
 
 3. Navigate to the project directory:
-    ```
-    cd face-recognition
-    ```
 
-4. Run the main.py file:
+4. Run the code.py file:
     ```
-    python main.py
+    python code.py
     ```
 
 ## Important Note
